@@ -137,7 +137,7 @@ while s != "Petr":
     q = q + 1
     s = input()
 
-print(s)
+print(q)
 ```
 
 ### Задача 14. Не делится на ...
